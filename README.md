@@ -33,11 +33,11 @@
 
 1. Clone this repository
    ```
-   $ https://github.com/Binbasri-in/reva_hack.git
+   $ https://github.com/raghav029/hackaphasia.git
    ```
 2. Install all depedencies on the package.json
    ```
-   $ cd reva_hack
+   $ cd hackaphasia
    $ npm i
    ```
 3. Run Application
@@ -51,8 +51,8 @@
 
 1. Install all requirements.txt
    ```
-   $ cd reva_hack
-   $ cd cyber_server
+   $ cd hackaphasia
+   $ cd hackaphasia
    $ pip install -r requirements.txt
    ```
 3. Run Backend
@@ -66,11 +66,11 @@ Deploy it to Heroku and <a href="https://github.com/Binbasri-in/try_hack_deploy"
 
 ## Screenshoot
 <div align="center">
-    <img width="200" src="./images/5.jpeg"> 
-    <img width="200" src="./images/2.jpeg">  
-    <img width="200" src="./images/1.jpeg"> 
-    <img width="200" src="./images/3.jpeg">    
-    <img width="200" src="./images/4.jpeg">
+    <img width="200" src="./Images/5.jpeg"> 
+    <img width="200" src="./Images/2.jpeg">  
+    <img width="200" src="./Images/1.jpeg"> 
+    <img width="200" src="./Images/3.jpeg">    
+    <img width="200" src="./Images/4.jpeg">
       
 
 </div>
