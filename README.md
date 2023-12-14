@@ -66,7 +66,7 @@ Deploy it to Heroku and <a href="https://github.com/Binbasri-in/try_hack_deploy"
 
 ## Screenshoot
 <div align="center">
-    <img width="200" src="./Images/5.jpeg"> 
+    
     <img width="200" src="./Images/2.jpeg">  
     <img width="200" src="./Images/1.jpeg"> 
     <img width="200" src="./Images/3.jpeg">    
