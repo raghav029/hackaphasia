@@ -11,13 +11,14 @@
 - [Contributors](#contributors)
 
 ## Introduction
-A crossword is a word puzzle that usually takes the form of a square or a rectangular grid of white-and black-shaded squares. The game's goal is to fill the white squares with letters, forming words or phrases, by solving clues, which lead to the answers.
+"Introducing TRANSFORMCHAT , a sophisticated virtual assistant designed to Give accurate answer  by leveraging advanced natural language processing techniques."
+
 
 
 ## Features
-* User can login/register to start the game
-* User can view completed and incompleted game in dashboard
-* User get one clue when they start the game.
+* User can get accuarate answer related to cyber security
+* User can access the dataset and make changes
+* Train model according to there requirements
 
 ## Requirements
 * [`npm`](https://www.npmjs.com/get-npm)
@@ -86,29 +87,24 @@ Deploy it to Heroku and <a href="https://github.com/Binbasri-in/try_hack_deploy"
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/jitendriyadeep">
-          <img width="100" src="https://avatars.githubusercontent.com/u/110286705?v=4" alt="Azizi Mukmin"><br/>
-          <sub><b>JITENDRIYA DEEP</b></sub>
+        <a href="https://github.com/Pratiksable">
+          <img width="100" src="https://avatars.githubusercontent.com/u/88896059?v=4" alt="Azizi Mukmin"><br/>
+          <sub><b>PRATIK SABLE</b></sub>
         </a>
       </td>
        <td align="center">
-        <a href="https://github.com/loki2107">
-          <img width="100" src="https://avatars.githubusercontent.com/u/107473210?v=4" alt="LOKESH E"><br/>
-          <sub><b>LOKESH E</b></sub>
+        <a href="https://github.com/krishna1804g">
+          <img width="100" src="https://avatars.githubusercontent.com/u/86600213?v=4" alt="LOKESH E"><br/>
+          <sub><b>KRISHNA GUPTA</b></sub>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Sammy-100">
-          <img width="100" src="https://avatars.githubusercontent.com/u/107463781?v=4" alt="Samiksha"><br/>
-          <sub><b>SAMIKSHA </b></sub>
+        <a href="https://github.com/Memes08">
+          <img width="100" src="https://avatars.githubusercontent.com/u/86600213?v=4" alt="Samiksha"><br/>
+          <sub><b>MIMANSA MISHRA</b></sub>
         </a>
       </td>
-      <td align="center">
-        <a href="[https://github.com/Sammy-100](https://github.com/Binbasri-in)">
-          <img width="100" src="https://avatars.githubusercontent.com/u/87440507?u=3e8e326d18283e8f43a27a575153667094cd12ec&v=4" alt="Mohammed Ali"><br/>
-          <sub><b>Mohammed Ali </b></sub>
-        </a>
-      </td>
+     
     </tr>
   </table>
 </center>
